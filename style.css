@@ -1,0 +1,25 @@
+.weather-container{
+    text-align: center;
+}
+.weather {
+    font-size: 22px;
+    margin: 0;
+    font-weight: normal;
+    position: absolute;
+    left: 400px;
+    top: 20px;
+}
+
+.temp {
+    font-size: 60px;
+    margin: 0;
+    font-weight: bold;
+    position: absolute;
+    right: 400px;
+    top: 0px;
+}
+
+.photo{
+    position: relative;
+    text-align: center;
+}
